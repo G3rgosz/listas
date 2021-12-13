@@ -1,0 +1,8 @@
+{
+    "employees": [
+        {"id": 1, "name": "Pont Irén", "city": "Szeged", "salary": 2850000},
+        {"id": 2, "name": "Perka Lajos", "city": "Szolnok", "salary": 2340000},
+        {"id": 3, "name": "Rotes Dóra", "city": "Miskolc", "salary": 3850000},
+        {"id": 4, "name": "Hentes Gábor", "city": "Budapest", "salary": 4950000}
+    ]
+}
